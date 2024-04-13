@@ -1,6 +1,6 @@
 writeCode
 
-Design an e-commerce site where we have 2 different logins
+De sign an e-commerce site where we have 2 different logins
 
 - admin login
 - user login
