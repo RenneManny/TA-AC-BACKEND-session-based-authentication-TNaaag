@@ -13,6 +13,6 @@ Add flash messages for:-
 - if email is not registered
 - if password is wrong
 - if no email, password is passed to login router
-- redirect to login page with an appropriate flash message
+- redirect to login pag e with an appropriate flash message
 
 Implement logout for loggd in users
